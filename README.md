@@ -1,14 +1,23 @@
 # EC2 Server Commander
 AWS EC2 project showcasing PuTTY authentication, Nginx deployment, and custom hosting.
 
-## Final Output
-![Mission Accomplished Screenshot](mission-accomplished.png)
+## 🚀 Project Overview
+This project demonstrates deploying and customizing an AWS EC2 instance with Nginx, authenticated via PuTTY, and serving a custom mission page.
 
-The page displays: **“Welcome to DecodeLabs: Mission Accomplished”**
+## 📸 Final Output
+![Mission Accomplished Screenshot](Mission Accomplished.png)
 
-## Key Steps
+The deployed page displays: **“Welcome to DecodeLabs: Mission Accomplished”**
+
+## 🛠️ Key Steps
 - Launch EC2 instance with Amazon Linux AMI  
 - Authenticate securely using PuTTY with `.ppk` key  
 - Install and configure Nginx web server  
 - Customize `index.html` with mission message  
 - Verify deployment via Public IPv4 address  
+
+
+## 📂 Repository Contents
+- `README.md` → Project documentation  
+- `Mission Accomplished.png` → Screenshot of final output  
+  
